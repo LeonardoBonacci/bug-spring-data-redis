@@ -1,4 +1,4 @@
-## Steps to reproduce bug in spring-date-redis
+## Steps to reproduce bug in spring-data-redis
 
 We are trying to read/write redis and then write to Kafka within a transaction
 
